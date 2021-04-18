@@ -2,11 +2,7 @@
 title: "HelloWorld"
 author: "Chantal Simó"
 date: "4/18/2021"
-output: html_document
+output: md_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## This is a markdown file
